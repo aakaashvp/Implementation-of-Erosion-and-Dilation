@@ -1,5 +1,5 @@
 ## Ex no: 10
-## Date: 25/5/2022
+## Date: 10.05.2023
 # <p align="center">Implementation of Erosion and Dilation
 
 ## Aim
